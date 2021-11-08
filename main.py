@@ -4,7 +4,7 @@ import talib
 
 '''
     Pour fonctionner, cet algorithme requière d'être connecté à votre API binance.
-    Si vous n'avez pas encore de compte binance passer par le lien :
+    Si vous n'avez pas encore de compte binance passez par le lien :
         https://accounts.binance.com/fr/register?ref=YXRHFGHV
   Celui ci vous offre 10% de commision pour la création du compte.
   
